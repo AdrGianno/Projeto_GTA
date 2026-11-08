@@ -1,3 +1,3 @@
-#Aulas Dev em Dobra
+#Aulas Dev em Dobro
 
 sem atualizações
